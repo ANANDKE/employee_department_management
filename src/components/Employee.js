@@ -1,0 +1,39 @@
+const employee = [
+    {
+        id:1,
+        name:"John",
+        department:"HR",
+        salary:25000,
+        rating:4.5,
+    },
+    {
+        id:2,
+        name:"Akash",
+        department:"Sales",
+        salary:30000,
+        rating:4,
+    },
+    {
+        id:3,
+        name:"Adwaith",
+        department:"Service",
+        salary:24500,
+        rating:3.5,
+    },
+    {
+        id:4,
+        name:"Amal",
+        department:"HR",
+        salary:28000,
+        rating:4.5,
+    },
+    {
+        id:5,
+        name:"Vishnu",
+        department:"Management",
+        salary:20000,
+        rating:4,
+    },
+]
+
+export default employee;
